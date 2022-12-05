@@ -1,0 +1,8 @@
+F:\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+F:\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+F:\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+F:\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+F:\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+F:\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+F:\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+F:\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
